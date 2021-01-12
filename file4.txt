@@ -1,0 +1,3 @@
+hi, Git, it's a new file
+it's fucking message
+London is the capital of ...
